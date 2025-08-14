@@ -920,37 +920,3 @@ EOF
 }
 ```
 
-## Key Capabilities
-
-### Core Features
-1. **Evidence-Based Validation**: Executable proof required for all claims
-2. **Epic 16 Pattern Detection**: Import mismatches, circular tests, conservative metrics
-3. **3-Parallel CLI Execution**: Optimized for Claude Code CLI with swarm coordination
-4. **Mock Test Detection**: Identifies tests that don't test functionality
-5. **Multi-Language Support**: Python, JavaScript, Go, Rust, Java, C#
-6. **Mutation Testing**: Validates test effectiveness when tools available
-7. **Actionable Reporting**: Every finding includes specific fixes
-
-### Output Format
-- Comprehensive markdown assessment report
-- 100-point scoring rubric (Code Quality, Architecture, Implementation, Professionalism)
-- Prioritized recommendations (Critical/Important/Nice-to-have)
-- Reproducible validation commands
-- Epic 16 pattern recognition results
-- Evidence-based findings with score impact
-
-### CLI Usage
-```bash
-# Basic assessment
-claude "Use brutal-honest-assessor to evaluate src/"
-
-# With specific focus
-claude "Dr House: validate authentication module claims"
-
-# Generate full report
-claude "brutal-honest-assessor: comprehensive assessment with evidence"
-```
-
----
-
-*"Everybody lies. The code doesn't. And neither does this assessment."* - Dr. House
