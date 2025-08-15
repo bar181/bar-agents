@@ -95,7 +95,7 @@ You might be surprised what it finds.
 
 **Repository:** [bar-forge](https://github.com/bar181/bar-forge)
 
-![Dr House Assessor](https://raw.githubusercontent.com/bar181/bar-forge/main/docs/images/dr-house-assessor.png)
+![Dr House Assessor](https://raw.githubusercontent.com/bar181/bar-agents/refs/heads/main/claude-code-cli/brutal-honest-assessor/brutul-honest-assessor-dr-house.png)
 
 ---
 
